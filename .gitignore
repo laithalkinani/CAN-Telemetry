@@ -5,3 +5,4 @@ build/
 sdkconfig
 sdkconfig.old
 *.drawio.bkp
+.DS_Store

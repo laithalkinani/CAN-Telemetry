@@ -3,7 +3,7 @@
 /*Constants*/
 #define ADC_MIN ((uint16_t)0)
 #define ADC_MAX ((uint16_t)1023)
-#define ADC_OPEN   ((uint16_t)890)   // throttle fully closed (rest position)
+#define ADC_OPEN   ((uint16_t)880)   // throttle fully closed (rest position)
 #define ADC_CLOSED ((uint16_t)830)   // throttle fully pressed
 #define MAX_ERPM ((uint32_t)50000)
 #define MIN_MOTOR_TEMP ((float)20.0)
